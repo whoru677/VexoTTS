@@ -175,7 +175,3 @@ Ideas and bug reports are welcome. Open an issue and say what you'd like to see.
 - [eSpeak NG](https://github.com/espeak-ng/espeak-ng) for speech synthesis.
 - [PySide6 / Qt](https://doc.qt.io/qtforpython-6/) for the interface.
 - PipeWire and PulseAudio for the audio plumbing.
-
-## License
-
-Add a `LICENSE` file to the repo (MIT is a good default for a small tool) and mention it here.
